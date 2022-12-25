@@ -1,4 +1,4 @@
-<a href="https://user-images.githubusercontent.com/97615019/209475450-eacfe5ef-0bd2-4f6a-9cca-26dc8f6c00a2.png" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97615019/209475450-eacfe5ef-0bd2-4f6a-9cca-26dc8f6c00a2.png" alt="Graphic with a fuschia to purple gradient. Text 'Hi. I'm Amanda' with bottom aligned graphics of a pile of books, black dog, girl on a computer, plant, and a record player" width:"100%" /></a>
+<a href="https://user-images.githubusercontent.com/97615019/209475450-eacfe5ef-0bd2-4f6a-9cca-26dc8f6c00a2.png" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97615019/209475450-eacfe5ef-0bd2-4f6a-9cca-26dc8f6c00a2.png" alt="Graphic with a fuschia to purple gradient. Text 'Hi. I'm Amanda' with bottom aligned graphics of a pile of books, black dog, girl on a computer, plant, and a record player"  style="width:100%" /></a>
 <!--
 **amandamartin-dev/amandamartin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
